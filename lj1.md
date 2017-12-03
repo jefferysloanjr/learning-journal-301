@@ -1,4 +1,4 @@
-##### Learning Journal 2
+##### Learning Journal 3
 ###### **Jeffery Sloan**
 
-The last couple of days went by smoothly. Working in pairs is definitely a help since you get a different perspective on assignments. It is also like having someone there to help you along the way. I struggle with the javaScript side of coding. We have been reconstructing code and also implement code that does not exist yet. I am definitely learning more but I feel sometimes I'm not on the same pace as everyone else. I'm not exactly sure if that is normal or if the people I am comparing myself with have prior experience. I just hope I do well with this so I feel more confident. Other than that everything else is going good minus my commute with evening lecture. I really hope I am getting the correct grasp on the assignments.
+Late in the week we learned regex which was fun to just play around with. I am trying to get a grasp on using handlebars. With having afternoon lecture it is a bit difficult with my commute time but I am managing. It has taken some time to adjust too. Working in pairs is very helpful, getting a different view from someone else. I am enjoying my time there and look forward to continue to learn more.
