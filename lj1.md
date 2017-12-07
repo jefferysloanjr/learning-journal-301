@@ -1,4 +1,4 @@
-##### Learning Journal 4
+##### Learning Journal 5
 ###### **Jeffery Sloan**
 
-Today we have gotten and intro to JSON and AJAX. Its definitely going to take a bit of time to understand. Everything is coming quickly and i do not wish to fall behind. Although, I am enjoying working with everyone, I feel a lot others have a better knowledge of understand how the code works. I have a problem getting started. I am looking forward to working with my partner tomorrow to learn and get a different perspective.
+Today using node.js and express seemed a bit easier than I thought it would. It did take some time to complete but it did not seem that difficult at this moment. While in class we learned about SQL and I need to wrap my head around that. Tomorrows lab I hope i get a handle on it and understand it. I am slowly getting an idea of how it should look. Hopefully it all will soon click. I like going back to watch lecture videos to get a better understanding on how everything works. 
