@@ -1,4 +1,4 @@
-##### Learning Journal 3
+##### Learning Journal 6
 ###### **Jeffery Sloan**
 
-Late in the week we learned regex which was fun to just play around with. I am trying to get a grasp on using handlebars. With having afternoon lecture it is a bit difficult with my commute time but I am managing. It has taken some time to adjust too. Working in pairs is very helpful, getting a different view from someone else. I am enjoying my time there and look forward to continue to learn more.
+Learning for me this course I feel has become somewhat difficult. I am not retaining the information as well. The commute I have definitely has played a part this course. I am looking forward to working on a project with someone. I think it can be beneficial to me to get another way to learn on a one on one level. Staying positive for the rest of this course. 
