@@ -1,4 +1,4 @@
-##### Learning Journal 5
+##### Learning Journal 6
 ###### **Jeffery Sloan**
 
-Today using node.js and express seemed a bit easier than I thought it would. It did take some time to complete but it did not seem that difficult at this moment. While in class we learned about SQL and I need to wrap my head around that. Tomorrows lab I hope i get a handle on it and understand it. I am slowly getting an idea of how it should look. Hopefully it all will soon click. I like going back to watch lecture videos to get a better understanding on how everything works. 
+Learning for me this course I feel has become somewhat difficult. I am not retaining the information as well. The commute I have definitely has played a part this course. I am looking forward to working on a project with someone. I think it can be beneficial to me to get another way to learn on a one on one level. Staying positive for the rest of this course. 
