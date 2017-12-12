@@ -1,4 +1,4 @@
-##### Learning Journal 6
+##### Learning Journal 7
 ###### **Jeffery Sloan**
 
-Learning for me this course I feel has become somewhat difficult. I am not retaining the information as well. The commute I have definitely has played a part this course. I am looking forward to working on a project with someone. I think it can be beneficial to me to get another way to learn on a one on one level. Staying positive for the rest of this course. 
+Today we went into more detail about the server.js. Still a lot to figure out but with time it should become more easy. I am slowly figuring all of this new information out and working with another helps a bit. I feel I learning at a slower pace than most in 301. Some of the topics we have covered are really difficult and I hope projects this week go well. 
