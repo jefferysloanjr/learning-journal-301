@@ -1,4 +1,4 @@
-##### Learning Journal 7
+##### Learning Journal 8
 ###### **Jeffery Sloan**
 
-Today we went into more detail about the server.js. Still a lot to figure out but with time it should become more easy. I am slowly figuring all of this new information out and working with another helps a bit. I feel I learning at a slower pace than most in 301. Some of the topics we have covered are really difficult and I hope projects this week go well. 
+It has been a difficult few days but yesterday while in lecture, doing some debugging definitely clarified some difficulties I was struggling with. I like that we do that and i hope we continue to. Some of the thing we learn just doesn't stick with me. I am learning but I feel as a slower pace than others. I like having the partner project like this. It has helped to get a handle on some of the things i have missed. 
